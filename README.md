@@ -1,4 +1,4 @@
-# couch-sync
+# couch-replicate
 
 The business end of replicating data into CouchDB.
 
